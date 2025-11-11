@@ -1,4 +1,4 @@
-//sum of two using function
+//sum of two numbers using function
 
 #include <stdio.h> 
 
