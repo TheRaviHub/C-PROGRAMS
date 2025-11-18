@@ -1,5 +1,6 @@
-# c.basics
-Beginner C programs I’m writing while learning.
+## 📂 Folder Structure
+
+```
 C-PROGRAMS/
 │
 ├── 📁 C BASICS
@@ -7,7 +8,6 @@ C-PROGRAMS/
 │   ├── arithmetic.c
 │   ├── area_of_triangle.c
 │   ├── leap_year.c
-│   ├── temperature_conversion.c
 │   └── ...
 │
 ├── 📁 04_ARRAYS (1D + 2D)
@@ -32,4 +32,5 @@ C-PROGRAMS/
 ├── 📁 09_STRUCTURES (upcoming)
 ├── 📁 10_FILE_HANDLING (upcoming)
 │
-
+└── README.md
+```
